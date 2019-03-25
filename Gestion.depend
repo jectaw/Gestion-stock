@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1551433930 source:f:\gestion\main.c
+	"Header.h"
+
+1551433806 f:\gestion\header.h
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1551433930 source:f:\gestion\prototype.c
+	"Header.h"
+
